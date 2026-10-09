@@ -1,0 +1,2 @@
+Pharmacy Charging System is a menu-driven Java application built for an Object-Oriented Programming coursework project. It calculates charges for prescription and counter sales, applies a 12% discount to customers aged 60 or above, and adds a UGX 1,000 packaging charge to counter sales.
+The project demonstrates encapsulation, inheritance, polymorphism, abstraction, interfaces, custom exceptions, collections, input validation, and alphabetical report sorting. It also supports adding, listing, searching, removing, and summarizing sales.
